@@ -57,6 +57,8 @@ namespace ConsoleApp
 
             // figure out how to format your document in VS Code
 
+            // Ctrl + Alt + F!
+
 
             // extra: make a new static method to do something and call it
             static void printNonsense()
